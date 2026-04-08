@@ -1,2 +1,3 @@
-python-telegram-bot
-yt-dlp
+aiogram
+requests
+python-dotenv
